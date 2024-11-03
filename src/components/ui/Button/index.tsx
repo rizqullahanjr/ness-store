@@ -1,4 +1,4 @@
-import styles from "./button.module.scss";
+import styles from "./Button.module.scss";
 
 type PropTypes = {
     type: 'button' | 'submit' | 'reset' | undefined;
